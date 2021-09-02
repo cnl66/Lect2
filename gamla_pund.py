@@ -13,6 +13,7 @@ shilling = pence_left // 12
 pence = pence_left % 12
 
 print('"Det blir"', pounds, "pund,", shilling, "shilling och", pence, "pence")
+print("\nProgrammet avslutas ... :-)")
 
 # string = "Det blir" + str(pounds) + "pund," + str(shilling)+ "shilling och"+ str(pence) + "pence"
 # print(string)
