@@ -15,4 +15,4 @@ while count > 0:
     count = count - 1    # count -= 1
     # again = input("Vill du upprepa programmet? ")
 
-print("Programmet avslutas ...")
+print("Programmet avslutas ...\nHej då!")
